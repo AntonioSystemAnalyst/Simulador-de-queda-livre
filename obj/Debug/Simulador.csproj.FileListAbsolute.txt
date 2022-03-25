@@ -1,0 +1,30 @@
+C:\Users\Orphew\Desktop\Simulador\bin\Debug\Simulador.exe.config
+C:\Users\Orphew\Desktop\Simulador\bin\Debug\Simulador.exe
+C:\Users\Orphew\Desktop\Simulador\bin\Debug\Simulador.pdb
+C:\Users\Orphew\Desktop\Simulador\obj\Debug\Simulador.csprojAssemblyReference.cache
+C:\Users\Orphew\Desktop\Simulador\obj\Debug\Simulador.Form1.resources
+C:\Users\Orphew\Desktop\Simulador\obj\Debug\Simulador.Properties.Resources.resources
+C:\Users\Orphew\Desktop\Simulador\obj\Debug\Simulador.csproj.GenerateResource.cache
+C:\Users\Orphew\Desktop\Simulador\obj\Debug\Simulador.exe
+C:\Users\Orphew\Desktop\Simulador\obj\Debug\Simulador.pdb
+C:\Users\Orphew\Desktop\Simulador\obj\Debug\Simulador.Form2.resources
+C:\Users\Orphew\Desktop\Simulador\obj\Debug\Simulador.chartEnergia.resources
+C:\Users\Orphew\Desktop\Simulador\obj\Debug\Simulador.chartEspaco.resources
+C:\Users\Orphew\Desktop\Simulador\obj\Debug\Simulador.chartVelocidade.resources
+C:\Users\Orphew\Desktop\Simulador\obj\Debug\Simulador.Dados.resources
+C:\Users\Orphew\Desktop\Simulador\obj\Debug\Simulador.Testes.resources
+C:\Users\Orphew\Desktop\Física - UFScar\4 Semestre\Física Geral 1\Simulador de queda livre\Simulador\bin\Debug\Simulador.exe.config
+C:\Users\Orphew\Desktop\Física - UFScar\4 Semestre\Física Geral 1\Simulador de queda livre\Simulador\bin\Debug\Simulador.exe
+C:\Users\Orphew\Desktop\Física - UFScar\4 Semestre\Física Geral 1\Simulador de queda livre\Simulador\bin\Debug\Simulador.pdb
+C:\Users\Orphew\Desktop\Física - UFScar\4 Semestre\Física Geral 1\Simulador de queda livre\Simulador\obj\Debug\Simulador.csprojAssemblyReference.cache
+C:\Users\Orphew\Desktop\Física - UFScar\4 Semestre\Física Geral 1\Simulador de queda livre\Simulador\obj\Debug\Simulador.chartEnergia.resources
+C:\Users\Orphew\Desktop\Física - UFScar\4 Semestre\Física Geral 1\Simulador de queda livre\Simulador\obj\Debug\Simulador.chartEspaco.resources
+C:\Users\Orphew\Desktop\Física - UFScar\4 Semestre\Física Geral 1\Simulador de queda livre\Simulador\obj\Debug\Simulador.chartVelocidade.resources
+C:\Users\Orphew\Desktop\Física - UFScar\4 Semestre\Física Geral 1\Simulador de queda livre\Simulador\obj\Debug\Simulador.Dados.resources
+C:\Users\Orphew\Desktop\Física - UFScar\4 Semestre\Física Geral 1\Simulador de queda livre\Simulador\obj\Debug\Simulador.Form1.resources
+C:\Users\Orphew\Desktop\Física - UFScar\4 Semestre\Física Geral 1\Simulador de queda livre\Simulador\obj\Debug\Simulador.Form2.resources
+C:\Users\Orphew\Desktop\Física - UFScar\4 Semestre\Física Geral 1\Simulador de queda livre\Simulador\obj\Debug\Simulador.Properties.Resources.resources
+C:\Users\Orphew\Desktop\Física - UFScar\4 Semestre\Física Geral 1\Simulador de queda livre\Simulador\obj\Debug\Simulador.Testes.resources
+C:\Users\Orphew\Desktop\Física - UFScar\4 Semestre\Física Geral 1\Simulador de queda livre\Simulador\obj\Debug\Simulador.csproj.GenerateResource.cache
+C:\Users\Orphew\Desktop\Física - UFScar\4 Semestre\Física Geral 1\Simulador de queda livre\Simulador\obj\Debug\Simulador.exe
+C:\Users\Orphew\Desktop\Física - UFScar\4 Semestre\Física Geral 1\Simulador de queda livre\Simulador\obj\Debug\Simulador.pdb
